@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-01-20 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our two papers on distributed robust/optimal control were accepted to the 2023 American Control Conference (ACC), which will be held Wednesday through Friday, May 31 - June 2, 2023, in San Diego, California, USA!
+
